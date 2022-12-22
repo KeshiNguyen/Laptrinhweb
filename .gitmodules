@@ -1,0 +1,3 @@
+[submodule "webtruyen/webtruyen/Laptrinhweb"]
+	path = webtruyen/webtruyen/Laptrinhweb
+	url = https://github.com/KeshiNguyen/Laptrinhweb

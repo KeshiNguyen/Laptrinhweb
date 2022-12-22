@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../../Users/Dell 5490/Downloads/httpd-2.4.54-win64-VS16/Apache24/htdocs"
+		},
+		{
+			"path": "../PHP"
+		},
+		{
+			"path": "../../../CODE/JS/Coban"
+		},
+		{
+			"path": "../../../CODE/WebPrograming"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Coban"
+	}
+}
